@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="apple.svg"
+   id="svg5"
+   version="1.1"
+   height="612"
+   width="479"
+   viewBox="0 0 479 612">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg5"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="306"
+     inkscape:cx="239.5"
+     inkscape:zoom="1.1683007"
+     showgrid="false"
+     id="namedview7"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     id="style2">
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+  <path
+     style="fill:#e32525;fill-opacity:1"
+     d="M333.6 612C316.18 612 300.15 607.08 285.97 597.4L285.11 596.78C284.75 596.51 273 587.78 253.03 587.78C240.53 587.78 227.44 591.23 214.12 598.05C210.07 600.53 191.41 611.05 167.58 611.05C148.03 611.05 130.22 604.27 114.62 590.89C89.93 569.72 8.72 490.35 0.66 358.14C-3 297.94 16.59 240.31 54.41 200.04C88.71 163.5 134.17 147.11 177.61 155.82C178.6 155.96 210.88 161.38 242.45 179.38C259.2 170.98 300.8 152.76 346.09 152.76C400.21 152.76 442.27 179.04 467.73 228.75L473.5 240.03L463.16 247.33C462.62 247.71 407.04 287.75 407.25 336.17C407.35 362.57 424.46 387.87 458.12 411.38C468.66 418.73 475.93 430.16 478.17 442.86C489 482.49 414.28 579.46 369.51 604.62L368.41 605.18C366.88 605.88 352.87 612 333.6 612ZM302.65 573.52C311.85 579.7 322.25 582.83 333.6 582.83C345 582.83 353.86 579.63 355.99 578.79C402.13 552.29 454.74 467.17 450.18 450.74L449.61 448.39C448.78 443.1 445.82 438.33 441.49 435.3C399.55 406.01 378.24 372.66 378.15 336.15C378.02 287.2 416.81 248.08 436.01 231.71C415.48 198.67 385.29 181.93 346.1 181.93C296.21 181.93 249.71 208.47 249.25 208.74L241.59 213.17L234.14 208.4C205.46 190.04 172.75 184.55 172.42 184.5C166.03 183.23 160.05 182.63 154.12 182.63C126.12 182.63 98.23 195.91 75.6 220.02C43.73 253.96 26.58 304.92 29.7 356.36C37.06 477.12 111.04 549.45 133.54 568.74C143.72 577.46 155.17 581.89 167.58 581.89C185.14 581.89 198.86 573.24 198.99 573.16L200.27 572.4C217.93 563.25 235.68 558.62 253.03 558.62C281.24 558.62 298.96 570.73 302.65 573.52ZM240.04 155.78C236.84 155.78 233.69 154.72 231.12 152.72C227.68 150.04 225.61 145.95 225.5 141.59C225.39 137.52 224.2 41.33 343.95 0.43C348.13 -1 352.72 -0.46 356.44 1.9C360.16 4.27 362.61 8.19 363.11 12.58C363.24 13.71 374.33 125.44 243.28 155.41C242.21 155.65 241.12 155.78 240.04 155.78ZM333.32 36.01C280.3 60.51 262.96 98.16 257.31 121.09C314.61 100.89 329.64 60.51 333.32 36.01Z"
+     class="shp0"
+     id="Shape 1" />
+</svg>

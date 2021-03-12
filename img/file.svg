@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="file (1).svg"
+   id="svg5"
+   version="1.1"
+   height="60"
+   width="48"
+   viewBox="0 0 48 60">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg5"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="30"
+     inkscape:cx="24"
+     inkscape:zoom="11.916667"
+     showgrid="false"
+     id="namedview7"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     id="style2">
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+  <path
+     style="fill:#c10b0b;fill-opacity:1"
+     d="M39 25L14 25C13.45 25 13 25.45 13 26C13 26.55 13.45 27 14 27L39 27C39.55 27 40 26.55 40 26C40 25.45 39.55 25 39 25ZM14 19L24 19C24.55 19 25 18.55 25 18C25 17.45 24.55 17 24 17L14 17C13.45 17 13 17.45 13 18C13 18.55 13.45 19 14 19ZM39 33L14 33C13.45 33 13 33.45 13 34C13 34.55 13.45 35 14 35L39 35C39.55 35 40 34.55 40 34C40 33.45 39.55 33 39 33ZM39 41L14 41C13.45 41 13 41.45 13 42C13 42.55 13.45 43 14 43L39 43C39.55 43 40 42.55 40 42C40 41.45 39.55 41 39 41ZM39 49L14 49C13.45 49 13 49.45 13 50C13 50.55 13.45 51 14 51L39 51C39.55 51 40 50.55 40 50C40 49.45 39.55 49 39 49ZM43 14.59L43 0L0 0L0 55L5 55L5 60L48 60L48 19.59L43 14.59ZM34 8.41L43 17.41L44.59 19L34 19L34 8.41ZM2 53L2 2L41 2L41 12.59L33.41 5L5 5L5 53L2 53ZM7 58L7 55L7 7L32 7L32 21L46 21L46 58L7 58Z"
+     class="shp0"
+     id="Forma 1" />
+</svg>
